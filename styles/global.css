@@ -24,9 +24,22 @@
   --semantic-error: #DC2626;
 
   /* tirar depois */
-  background: #7c1901;
+  /* background: #7c1901; */
 }
 
 body {
   overflow: hidden;
+
+  font:var(--text);
+  color: var(--text-secondary);
 }
+
+h1, h2 {
+  color: var(--text-primary);
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+

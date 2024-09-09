@@ -15,16 +15,13 @@
   --text-tertiary: #8F8881;
   --text-highlight: #E43A12;
 
-  --surface-primary: #FFFFFF;
+  --surface-primary: #d4d0d0;
   --surface-secondary: #FEE7D6;
 
-  --stroke-default: #D6D3D1
+  --stroke-default: #DC2626;
   --stroke-hightlight: #F3541C;
 
   --semantic-error: #DC2626;
-
-  /* tirar depois */
-  /* background: #7c1901; */
 }
 
 body {
